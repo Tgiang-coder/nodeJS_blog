@@ -1,0 +1,32 @@
+{
+  "name": "blogjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tgiang-coder/nodeJS_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "f8",
+    "learnig",
+    "node"
+  ],
+  "author": "Giang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tgiang-coder/nodeJS_blog/issues"
+  },
+  "homepage": "https://github.com/Tgiang-coder/nodeJS_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
